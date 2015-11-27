@@ -1,4 +1,4 @@
-# nw
+# nw-template
 
 A Leiningen template for developing [node webkit](http://nwjs.io/)
 applications in Clojurescript.
