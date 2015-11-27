@@ -3,6 +3,16 @@
 A Leiningen template for developing [node webkit](http://nwjs.io/)
 applications in Clojurescript.
 
+## Dependencies
+
+- Node Webkit
+
+Installing node webkit:
+
+``` bash
+npm install -g nw
+```
+
 ## Usage
 
 Create a new project:
