@@ -1,0 +1,8 @@
+{
+    "private" : true,
+    "name" : "{{name}}",
+    "description" : "FIXME: write this!",
+    "main": "resources/public/index.html",
+    "version" : "0.1.0-SNAPSHOT",
+    "dependencies" : {}
+}
