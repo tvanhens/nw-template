@@ -1,10 +1,34 @@
 # nw
 
-A Leiningen template for FIXME.
+A Leiningen template for developing [node webkit](http://nwjs.io/)
+applications in Clojurescript.
 
 ## Usage
 
-FIXME
+Create a new project:
+
+``` bash
+lein new nw hello-world
+```
+
+Start figwheel:
+
+``` bash
+lein figwheel
+```
+
+In a new terminal window, start node webkit:
+
+``` bash
+lein nw
+```
+
+Connect to the figwheel repl on port `7888` and then start the node
+webkit repl with:
+
+``` clojure
+(dev)
+```
 
 ## License
 
