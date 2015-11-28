@@ -3,3 +3,5 @@
 (enable-console-print!)
 
 (println "Hello World!")
+
+(defn on-js-reload [])
